@@ -1,0 +1,2 @@
+## Simple Games (Singleplayer + Multiplayer) Made In Unity
+Client app (unity, android, apk) and server app (windows, linux, console). Server app is configured to listen on ip 192.168.1.8, client app try to connect to server on the same ip. Server is using mysql database on localhost, need 2 tables, games and users. Game is not fully complete yet, but a lot is already done, you can watch demo here: http://youtu.be/T7a6UBuUvyQ
